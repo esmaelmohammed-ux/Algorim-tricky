@@ -1,0 +1,24 @@
+#a {
+  background-color: red;
+}
+#b {
+  background-color: pink;
+}
+#c {
+  background-color: red;
+}
+#d {
+  background-color: green;
+}
+#e {
+  background-color: orange;
+}
+#max {
+  max-width: 300px;
+  font-size: 30px;
+  margin-left: 400px;
+}
+#max,
+li {
+  list-style: none;
+}
